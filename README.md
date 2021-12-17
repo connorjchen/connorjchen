@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Connor Chen, and welcome to my Github profile! I am currently an undergraduate at Cornell University studying computer science. Feel free to check out my [website](https://connorjchen.github.io/) for more info!
 <!--
 **connorjchen/connorjchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
